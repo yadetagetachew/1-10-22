@@ -1,3 +1,23 @@
-*{
+body{
+    height: 100%;
+    margin: 30px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    background: url(/media/wave-haikei\ \(2\).svg) no-repeat;
+    background-size: cover;
+    padding-bottom: 100px;
+    padding-top:20px;
+    background-color: #001122;
+    color: azure;
+}
+h1{
+    text-align: center;
+    padding-top:40px ;
+    font-size: 7vw;
+}
+.text{
+    padding-top: 320px;
+}
+footer{
+    background: #001122;
+
 }
