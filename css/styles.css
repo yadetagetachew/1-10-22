@@ -1,23 +1,48 @@
 body{
-    height: 100%;
-    margin: 30px;
+    height: 790%;
+    margin: 0;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background: url(/media/wave-haikei\ \(2\).svg) no-repeat;
-    background-size: cover;
-    padding-bottom: 100px;
-    padding-top:20px;
-    background-color: #001122;
-    color: azure;
+    background-color: rgb(22, 27, 54);
+    color: white;
 }
+
 h1{
-    text-align: center;
-    padding-top:40px ;
     font-size: 7vw;
+    position: absolute;
+    transform: translateX(60%);
+    color: white;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    font-size: 30px;
+    text-align: right;
+}
+h4{
+    font-size: 20px;
+}
+svg{
+    margin-top: -5vw;
+}
+    
 }
 .text{
-    padding-top: 315px;
+    /* padding-top: 315px; */
 }
-footer{
-    background: #001122;
 
+section{
+margin: 30px;
+padding-bottom: 3vw;
+font-size: 20px;
+line-height: 1.5;
+}
+
+footer{
+    background: rgb(115, 118, 172);
+    padding: 2.5vw;
+    width: 95%;
+    position:absolute;
+    text-align: center;
+    color: white;
 }
